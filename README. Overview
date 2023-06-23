@@ -1,9 +1,11 @@
 # Overview:
 
-This project involves working with a database of employee records in the ScienceQtech startup. The goal is to generate reports on employee details, performance, 
-and project information to analyze the employee database and extract specific data based on different requirements. The project tasks include:
+This project involves working with a database of employee records in the ScienceQtech startup. The goal is to generate reports 
+on employee details, performance, and project information to analyze the employee database and extract specific data based 
+on different requirements. The project tasks include:
 
-1) Creating a database named "employee" and importing data from three CSV files: "data_science_team.csv," "proj_table.csv," and "emp_record_table.csv."
+1) Creating a database named "employee" and importing data from three CSV files: "data_science_team.csv," "proj_table.csv," and
+"emp_record_table.csv."
 
 2) Creating an Entity-Relationship (ER) diagram for the employee database, depicting the relationships between tables.
 
@@ -14,16 +16,18 @@ b) Fetching employee details based on different employee rating criteria.
 c) Concatenating the first name and last name of employees in the Finance department and aliasing the result as "NAME."
 d) Listing employees who have subordinates and displaying the number of reporters.
 e) Listing employees from the healthcare and finance departments using a union operation.
-f) Grouping employee details by department and including the respective employee rating along with the maximum employee rating for each department.
+f) Grouping employee details by department and including the respective employee rating along with the maximum employee rating 
+for each department.
 g) Calculating the minimum and maximum salary for employees in each role.
 h) Assigning ranks to employees based on their experience.
 i) Creating a view to display employees in various countries with a salary greater than six thousand.
 j) Using a nested query to find employees with experience greater than ten years.
 k) Creating a stored procedure to retrieve details of employees with more than three years of experience.
-l) Using stored functions in the project table to check if the job profile assigned to each employee in the data science team matches the organization's set standard.
+l) Using stored functions in the project table to check if the job profile assigned to each employee in the data science team 
+matches the organization's set standard.
 m) Creating an index to improve the performance of a query to find an employee with the first name 'Eric' in the employee table.
 n) Calculating the bonus for all employees based on their ratings and salaries.
 o) Calculating the average salary distribution based on continent and country.
 
-These tasks aim to provide insights into employee performance, departmental details, salary analysis, and other relevant information to support the HR department in 
-employee performance mapping and decision-making processes.
+These tasks aim to provide insights into employee performance, departmental details, salary analysis, and other relevant information 
+to support the HR department in employee performance mapping and decision-making processes.
